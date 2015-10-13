@@ -1,3 +1,4 @@
+%ASU feature selection algorithm : http://featureselection.asu.edu/software.php
 %function [out] = fsFisher(X,Y)
 %Fisher Score, use the N var formulation
 %   X, the data, each raw is an instance
