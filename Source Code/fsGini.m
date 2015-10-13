@@ -1,3 +1,4 @@
+%ASU feature selection algorithms: http://featureselection.asu.edu/software.php
 X = csvread('TrainingData.csv',1,1,[1 1 1500 3400]);
 Y = csvread('Label.csv',1,0) ; % ,[1 0 1300 0]);
 
